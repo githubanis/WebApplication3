@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meal Management", "WebApplication3\Meal Management.csproj", "{699527A0-6C81-4924-88F4-75B32C17B682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication3.Tests", "WebApplication3.Tests\WebApplication3.Tests.csproj", "{D4DD3FB9-E766-4CE6-9237-FC5EE152E701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{699527A0-6C81-4924-88F4-75B32C17B682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699527A0-6C81-4924-88F4-75B32C17B682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699527A0-6C81-4924-88F4-75B32C17B682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699527A0-6C81-4924-88F4-75B32C17B682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4DD3FB9-E766-4CE6-9237-FC5EE152E701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DD3FB9-E766-4CE6-9237-FC5EE152E701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4DD3FB9-E766-4CE6-9237-FC5EE152E701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4DD3FB9-E766-4CE6-9237-FC5EE152E701}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D5FD793-5630-4D64-AD19-B4EE302BEB6D}
+	EndGlobalSection
+EndGlobal
